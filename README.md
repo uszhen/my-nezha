@@ -13,11 +13,12 @@
 
 ## Screenshots
 
- 用户前台 [@hamster1963](https://github.com/hamster1963) | 管理后台 [@uubulb](https://github.com/uubulb) |
+| 用户前台 [@hamster1963](https://github.com/hamster1963) | 管理后台 [@nezhahq](https://github.com/nezhahq) |
 |---|---|
-| ![user](.github/user-frontend.20241128.png)  | ![admin](.github/admin-frontend.20241128.png)  |
-| [hamster1963/nezha-dash-react](https://github.com/hamster1963/nezha-dash-react)  | [nezhahq/admin-frontend](https://github.com/nezhahq/admin-frontend)  |
+| ![user](.github/user-frontend.20241128.png)  | ![admin](.github/admin-frontend.20241220.jpg)  |
+| [hamster1963/nezha-dash](https://github.com/hamster1963/nezha-dash)  | [nezhahq/admin-frontend](https://github.com/nezhahq/admin-frontend)  |
 
+add your theme to [service/singleton/frontend-templates.yaml](service/singleton/frontend-templates.yaml)
 
 ## Supported Languages
 
